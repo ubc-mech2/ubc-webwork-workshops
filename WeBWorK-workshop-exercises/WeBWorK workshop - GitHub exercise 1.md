@@ -33,5 +33,5 @@ Go to your pull request (Pull requests tab, “Closed” option) and find the �
 
 *******
 COMMENTS AND QUESTIONS ABOUT THIS WORKSHOP SO FAR:
-I like the interactive aspect of this workshop.
+What is the advantage of learning WebWork vs. using quiz functionality on most LMSs?
 
