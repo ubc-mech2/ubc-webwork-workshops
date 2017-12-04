@@ -4,6 +4,8 @@
 * Institution: UBC
 * License: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
+My attempt to learn GitHub branches, forks, Git, etc by making lots of mistakes...
+
 All this can be done on GitHub, however if you wish to try doing this via GitHub Desktop, or git, you are welcome to.  
 
 This file is in the ubc-webwork-workshops repo on GitHub. 
