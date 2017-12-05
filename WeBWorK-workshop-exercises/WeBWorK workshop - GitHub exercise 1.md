@@ -36,6 +36,9 @@ Go to your pull request (Pull requests tab, “Closed” option) and find the �
 *******
 COMMENTS AND QUESTIONS ABOUT THIS WORKSHOP SO FAR:
 
+Where can I find a tutorial on using Github?
+=======
+
 I like the interactive aspect of this workshop.
 looking forward to using webwork
 =======
@@ -52,6 +55,7 @@ Hello! This is a modification!
 
 
 Thanks!
+
 
 
 SAQUINO_EX1
