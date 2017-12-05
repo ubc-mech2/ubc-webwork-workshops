@@ -1,5 +1,7 @@
 ## Basic changes to `code` on GitHub
 
+changing it
+
 * Author: Agnes d’Entremont
 * Institution: UBC
 * License: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
@@ -33,5 +35,27 @@ Go to your pull request (Pull requests tab, “Closed” option) and find the �
 
 *******
 COMMENTS AND QUESTIONS ABOUT THIS WORKSHOP SO FAR:
-Where can I find a tutorial on using Github?
 
+Where can I find a tutorial on using Github?
+=======
+
+I like the interactive aspect of this workshop.
+looking forward to using webwork
+=======
+Negar: This workshop is awesome! Thanks Agnes.
+
+
+=======
+
+Hello
+
+
+Hello! This is a modification!
+
+
+
+Thanks!
+
+
+
+SAQUINO_EX1
