@@ -1,5 +1,7 @@
 ## Basic changes to `code` on GitHub
 
+changing it
+
 * Author: Agnes d’Entremont
 * Institution: UBC
 * License: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
@@ -34,6 +36,9 @@ Go to your pull request (Pull requests tab, “Closed” option) and find the �
 *******
 COMMENTS AND QUESTIONS ABOUT THIS WORKSHOP SO FAR:
 
+
 Hello! This is a modification!
 
 
+
+Thanks!
