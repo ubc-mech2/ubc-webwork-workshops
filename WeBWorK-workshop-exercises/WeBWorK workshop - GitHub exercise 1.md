@@ -54,6 +54,7 @@ Go to your pull request (Pull requests tab, 'Closed' option) and find the 'Delet
 COMMENTS AND QUESTIONS ABOUT THIS WORKSHOP SO FAR:
 
 (Put your comments and questions here)
+i think this is good
 
 
 
