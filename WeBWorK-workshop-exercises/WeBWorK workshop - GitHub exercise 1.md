@@ -12,7 +12,9 @@ This file is in the ubc-webwork-workshops repo on GitHub.
 
 There are two sets of instructions - if you have never contributed to the repo before (your case for this workshop - first set) and if you are already a contributor (i.e. you have had a pull request merged - second set).  
 
-You are going to modify this file by doing the following:
+You are going to modify this file below (see COMMENTS AND QUESTIONS) by doing the following:
+
+*********
 
 IF YOU ARE NEW TO THE REPO:
 1. Modify the file by adding a comment or question about this workshop so far. 
@@ -50,4 +52,30 @@ Go to your pull request (Pull requests tab, 'Closed' option) and find the 'Delet
 
 *******
 COMMENTS AND QUESTIONS ABOUT THIS WORKSHOP SO FAR:
+
+(Put your comments and questions here)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
