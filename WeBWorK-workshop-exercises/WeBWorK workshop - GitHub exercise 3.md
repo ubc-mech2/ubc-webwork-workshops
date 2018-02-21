@@ -33,3 +33,5 @@ Merging will be done by the OPL administrator (not one of the workshop facilitat
 
 6. Delete the branch you created (once merged).  
 Go to your pull request (Pull requests tab, "Closed" option) and find the "Delete branch" button. 
+
+*Small edit*
