@@ -55,6 +55,8 @@ COMMENTS AND QUESTIONS ABOUT THIS WORKSHOP SO FAR:
 
 (Put your comments and questions here)
 
+It was a queer, sultry summer, the summer they electrocuted the Rosenbergs, and I didn’t know what I was doing in New York.
+
 
 
 
