@@ -57,7 +57,11 @@ COMMENTS AND QUESTIONS ABOUT THIS WORKSHOP SO FAR:
 
 (Put your comments and questions here)
 
+
+Bringing back coding skills!
+
 ** This workshop is awesome.
+
 
 
 
