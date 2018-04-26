@@ -56,16 +56,6 @@ Go to your pull request (Pull requests tab, 'Closed' option) and find the 'Delet
 COMMENTS AND QUESTIONS ABOUT THIS WORKSHOP SO FAR:
 
 (Put your comments and questions here)
-i think this is good
-
-
-Bringing back coding skills!
-
-
-It was a queer, sultry summer, the summer they electrocuted the Rosenbergs, and I didn’t know what I was doing in New York.
-
-
-** This workshop is awesome.
 
 
 
