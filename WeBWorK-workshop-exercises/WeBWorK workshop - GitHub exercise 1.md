@@ -43,7 +43,7 @@ Click on the pen icon at the top right of the document to start editing.  Type i
 Type in a description of your change as a title for the commit (below the text area), select 'Commit directly to the <name-of-your-branch> branch', and click on 'Commit Changes'.  
 
 4. Create a pull request for the change to be merged into the master branch.
-Go to the 'Pull Requests' tab.  Click on 'New Pull Request'. You may have to change your base and compare branches.  'base:' should be master.  'compare:' should be <name-of-your-branch>. You should see 'Able to merge': click on button to 'Create pull request'. You will get a chance to rename your pull request (default is commit title). Tag a workshop facilitator (add "@adentremont" in the comments of the pull request).  Click 'Create pull request' again.  
+Go to the 'Pull Requests' tab.  Click on 'New Pull Request'. You may have to change your base and compare branches.  'base:' should be master.  'compare:' should be <name-of-your-branch>. You should see 'Able to merge': click on button to 'Create pull request'. You will get a chance to rename your pull request (default is commit title). Tag a workshop facilitator (add "@adentremont" AND "@jverrett" in the comments of the pull request).  Click 'Create pull request' again.  
 
 The facilitators will merge the pull requests as they come in.  You will be notified of the merge via email (if you have not changed your GitHub communication settings). 
 
