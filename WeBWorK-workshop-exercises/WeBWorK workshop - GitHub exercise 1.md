@@ -57,9 +57,6 @@ COMMENTS AND QUESTIONS ABOUT THIS WORKSHOP SO FAR:
 
 (Put your comments and questions here)
 
-test - J Verrett
-
-
 
 
 
