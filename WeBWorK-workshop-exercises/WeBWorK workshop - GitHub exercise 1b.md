@@ -30,4 +30,4 @@ Contributors (github):
 
 5. Propose your new file at the bottom of the edit page (this should create a branch for your change automatically).  You can keep the auto-generated title or change it, and you can add a description.  If you have a colleague here, tag them in the description.  If you know who looks after your WeBWorK instance (and know their GitHub handle), you should tag them.  You can also tag "@adentremont" and "@jverrett".  
 
-6. Create a pull request to have your branch merged with the OPL. (This will not likely happen until after the workshop!)   
+6. Create a pull request to have your branch merged with the OPL. (This will not likely happen until after the workshop!)  See exercise 1 for details.   
