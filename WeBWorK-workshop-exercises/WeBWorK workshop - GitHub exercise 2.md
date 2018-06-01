@@ -1,4 +1,4 @@
-## Upload new code/problems/images to GitHub
+## Upload new code/problems/images to GitHub in the ubc-webwork-workshops repo
 
 * Author: Agnes d'Entremont
 * Institution: UBC
