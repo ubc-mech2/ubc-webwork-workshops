@@ -10,7 +10,7 @@ This file is in the ubc-webwork-workshops repo on GitHub.
 
 You are going to add files to the webwork-open-problem-library repo on GitHub.  If your course folder exists on the OPL, you can use either of the two general methods from exercise 2.  If not, you will need use "Create new file".  
 
-WARNING: everything you put on GitHub in this repo is publicly available
+**WARNING**: everything you put on GitHub in this repo is publicly available
 
 You need to be added as an allowed contributor on your institutional folder in the OPL for the OPL administrator to merge your pull request.  At UBC, that is Pan Luo (pan.luo@ubc.ca).  If you are not sure who it is, you can still create the pull request, but it will not be merged until the admin issue is sorted out.  
 
