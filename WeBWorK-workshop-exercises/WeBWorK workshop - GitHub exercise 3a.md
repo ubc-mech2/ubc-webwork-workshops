@@ -36,4 +36,4 @@ Contributors (github):
 6. Create a pull request to have your branch merged with the OPL. (This will not likely happen until after the workshop!)  See exercise 1 for details.   
 
 7. Once it is merged, delete your branch.  
-Go to your pull request (Pull requests tab, "Closed" option) and find the "Delete branch" button.(Again, merging may take a day or so).  
+Go to your pull request (Pull requests tab, "Closed" option) and find the "Delete branch" button. (Again, merging may take a day or so).  
