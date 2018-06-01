@@ -19,7 +19,7 @@ If your school does not have a folder on the OPL yet, follow these instructions 
 
 2. Click on "Create new file"
 
-3. Above the new file, you will see: webwork-open-problem-library/Contrib/[         ]   In the box, type a short name for your school (e.g. "Calgary", "KPU", "Toronto"), a forward slash, and then "README.md".  The text in the box should read: School/README.md
+3. Above the new file, you will see: webwork-open-problem-library/Contrib/[____________]   In the box, type a short name for your school (e.g. "Calgary", "KPU", "Toronto"), a forward slash, and then "README.md".  The text in the box should read: School/README.md
 
 4. In the "<> Edit New File" field, type the following:
 
@@ -31,6 +31,6 @@ Contributors (github):
 
 (You can create bullets by using a dash and space at the start of a line: "- "). 
 
-5. Propose your new file at the bottom of the edit page (this should create a branch for your change automatically).  You can keep the auto-generated title or change it, and you can add a description.  If you have a colleague here, tag them in the description.  If you know who looks after your WeBWorK instance (and know their GitHub handle), you should tag them.  You can also tag @adentremont and @jverrett.  
+5. Propose your new file at the bottom of the edit page (this should create a branch for your change automatically).  You can keep the auto-generated title or change it, and you can add a description.  If you have a colleague here, tag them in the description.  If you know who looks after your WeBWorK instance (and know their GitHub handle), you should tag them.  You can also tag _@adentremont_ and _@jverrett_.  
 
 6. Create a pull request to have your branch merged with the OPL. (This will not likely happen until after the workshop!)  See exercise 1 for details.   
