@@ -1,7 +1,9 @@
 ## Add a folder for your school on OPL/Contrib
 
 Author: Agnes d'Entremont 
+
 Institution: UBC 
+
 License: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
 All this can be done on GitHub, however if you wish to try doing this via GitHub Desktop, or git, you are welcome to.
