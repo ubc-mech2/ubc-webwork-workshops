@@ -26,9 +26,7 @@ If your school does not have a folder on the OPL yet, follow these instructions 
 "This subdirectory contains the problems contributed by [full school name].
 
 Contributors (github):
-
 - [Your GitHub username]
-
 - [Another GitHub username, if applicable]"
 
 (You can create bullets by using a dash and space: "- "). 
