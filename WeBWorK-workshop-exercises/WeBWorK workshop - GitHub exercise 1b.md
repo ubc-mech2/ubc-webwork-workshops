@@ -11,7 +11,7 @@ This file is in the ubc-webwork-workshops repo on GitHub.
 
 You are going to add files to the webwork-open-problem-library repo on GitHub. 
 
-WARNING: everything you put on GitHub in the OPL is publicly available
+**WARNING**: everything you put on GitHub in the OPL is publicly available
 
 If your school does not have a folder on the OPL yet, follow these instructions to create one.  If more than one person from your institution is attending the workshop, work together and only create one folder.  Your pull request will likely not be merged until after the workshop, however you can still create a branch off your folder creation branch to then upload a problem to your school folder.  The initial README is intended to let the administrators know who is permitted to make pull requests on the school's folder.  If you have WeBWorK at your campus, make sure the learning technology support person gets added to this list as well.  
 
