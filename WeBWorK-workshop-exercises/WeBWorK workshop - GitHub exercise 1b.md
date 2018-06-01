@@ -19,7 +19,7 @@ If your school does not have a folder on the OPL yet, follow these instructions 
 
 2. Click on "Create new file"
 
-3. Above the new file, you will see: webwork-open-problem-library/Contrib/[____________]   In the box, type a short name for your school (e.g. "Calgary", "KPU", "Toronto"), a forward slash, and then "README.md".  The text in the box should read: School/README.md
+3. Above the new file, you will see: webwork-open-problem-library/Contrib/[____________]   In the box, type a short name for your school (e.g. "Calgary", "SFU", "Toronto", "USask"), a forward slash, and then "README.md".  The text in the box should read: School/README.md
 
 4. In the "<> Edit New File" field, type the following:
 
