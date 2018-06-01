@@ -1,9 +1,7 @@
 ## Add a folder for your school on OPL/Contrib
 
 - Author: Agnes d'Entremont 
-
 - Institution: UBC 
-
 - License: This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
 
