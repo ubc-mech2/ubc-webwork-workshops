@@ -23,9 +23,9 @@ If your school does not have a folder on the OPL yet, follow these instructions 
 
 4. In the "<> Edit New File" field, type the following:
 
-"This subdirectory contains the problems contributed by [full school name].
+_"This subdirectory contains the problems contributed by [full school name].
 
-Contributors (github):
+_Contributors (github):
 - [Your GitHub username]
 - [Another GitHub username, if applicable]"
 
