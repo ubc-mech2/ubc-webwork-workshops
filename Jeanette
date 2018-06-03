@@ -1,0 +1,65 @@
+##DESCRIPTION
+##  Operation Amplifiers
+##ENDDESCRIPTION
+
+##KEYWORDS('Op Amps','operational','amplifier','voltage follower')
+
+## DBsubject('Electrical Engineering')
+## DBchapter('Circuit Analysis')
+## DBsection('Op Amps')
+## Date('2017/Dec/04')
+## Author('L.R.Linares, llinares@ece.ubc.ca')
+## Institution('University of British Columbia')
+
+########################################################################
+
+DOCUMENT();      
+
+loadMacros(
+   "PGstandard.pl",     # Standard macros for PG language
+   "MathObjects.pl",
+   "PGML.pl",
+);
+
+# Print problem number and point value (weight) for the problem
+TEXT(beginproblem());
+
+# Show which answers are correct and which ones are incorrect
+$showPartialCorrectAnswers = 1;
+
+$refreshCachedImages = 1;
+
+##############################################################
+#
+#  Setup
+#
+#
+
+Context("Complex");
+Context()->flags->set(tolerance => .02);
+
+$S = Real(random(1,10,2));
+$P = Real(2*pi*$S);
+
+##############################################################
+#
+#  PGML Area
+#
+#
+BEGIN_PGML
+
+Consider a circle of radius [$S] meters.  Compute the premeter of the circle.
+
+[@ image( "MyQ.png", width=>400, height=>231) @]*
+
+Enter your answer P = [______]{$P} units.
+
+END_PGML
+
+##############################################################
+Context()->functions->disable("All");
+Context()->operators->undefine('+','-','**','^','/',' /','/ ','//','U','u+','fn','.','><','!',',','_',' ','*',' *','* ');
+Context()->parens->remove('|','(','[','{');
+Context()->constants->remove('i');
+
+ENDDOCUMENT();
