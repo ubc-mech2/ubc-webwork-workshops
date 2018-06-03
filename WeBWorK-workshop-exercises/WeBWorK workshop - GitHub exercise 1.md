@@ -55,7 +55,7 @@ Go to your pull request (Pull requests tab, 'Closed' option) and find the 'Delet
 *******
 COMMENTS AND QUESTIONS ABOUT THIS WORKSHOP SO FAR:
 
-This is Gordon's question - am I ready to open a Waterloo folder? 
+Ernest Goh, UBC Okanagan, attended this workshop and contributed this comment.
 
 
 
