@@ -1,0 +1,66 @@
+##  Complex Power
+##ENDDESCRIPTION
+
+##KEYWORDS('Op Amps','operational','amplifier','voltage follower')
+
+## DBsubject('Electrical Engineering')
+## DBchapter('Circuit Analysis')
+## DBsection('AC Power')
+## Date('2018/Jun/03')
+## Author('D. Lynch, denard.lynch@usask.ca')
+## Institution('University of Saskatchewan')
+
+########################################################################
+
+DOCUMENT();      
+
+loadMacros(
+   "PGstandard.pl",     # Standard macros for PG language
+   "MathObjects.pl",
+   "PGML.pl",
+);
+
+# Print problem number and point value (weight) for the problem
+TEXT(beginproblem());
+
+# Show which answers are correct and which ones are incorrect
+$showPartialCorrectAnswers = 1;
+
+$refreshCachedImages = 1;
+
+##############################################################
+#
+#  Setup
+#
+#
+
+Context("Complex");
+Context()->flags->set(tolerance => .02);
+
+$R = Real(random(30,90,3));
+$L = Real(random(.05,.2,.05);
+
+##############################################################
+#
+#  PGML Area
+#
+#
+BEGIN_PGML
+
+Consider the AC circuit shown below with a 60Hz source of 120 VAC.  Given that R is [$R] Ohms and L is [$L/1000] mH, compute the magnitude and the phase abgle of the current (w.r.t. an assumed volage angle of 0 degrees).
+
+[@ image( "sch1.png", width=>400, height=>231) @]*
+
+Current, I = [______] [$I] units.
+
+Phase Angle, Phi = [_______] [$P]
+
+END_PGML
+
+##############################################################
+Context()->functions->disable("All");
+Context()->operators->undefine('+','-','**','^','/',' /','/ ','//','U','u+','fn','.','><','!',',','_',' ','*',' *','* ');
+Context()->parens->remove('|','(','[','{');
+Context()->constants->remove('i');
+
+ENDDOCUMENT();
