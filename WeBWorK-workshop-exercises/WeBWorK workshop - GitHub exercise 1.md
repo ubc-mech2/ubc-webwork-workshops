@@ -56,6 +56,9 @@ Go to your pull request (Pull requests tab, 'Closed' option) and find the 'Delet
 COMMENTS AND QUESTIONS ABOUT THIS WORKSHOP SO FAR:
 
 
+Ernest Goh, UBC Okanagan, attended this workshop and contributed this comment.
+=======
+
 I think this will be quie useful - Denard Lynch
 =======
 
@@ -63,6 +66,7 @@ I think this will be quie useful - Denard Lynch
 Jeanette
 =======
 This is Gordon's question - am I ready to open a Waterloo folder? 
+
 
 
 This is Amir's comment. Lets do this!
