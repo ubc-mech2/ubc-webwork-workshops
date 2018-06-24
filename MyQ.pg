@@ -1,0 +1,68 @@
+##DESCRIPTION
+##  Truss analysis
+##ENDDESCRIPTION
+
+##KEYWORDS('trusses')
+
+## DBsubject('Electrical Engineering')
+## DBchapter('Circuit Analysis')
+## DBsection('Op Amps')
+## Date('2017/Dec/04')
+## Author('D. Breid')
+## Institution('University of British Columbia')
+
+########################################################################
+
+DOCUMENT();      
+
+loadMacros(
+   "PGstandard.pl",     # Standard macros for PG language
+   "MathObjects.pl",
+   "PGML.pl",
+);
+
+# Print problem number and point value (weight) for the problem
+TEXT(beginproblem());
+
+# Show which answers are correct and which ones are incorrect
+$showPartialCorrectAnswers = 1;
+
+$refreshCachedImages = 1;
+
+##############################################################
+#
+#  Setup
+#
+#
+
+Context("Numeric");
+Context()->flags->set(tolerance => .02);
+
+$w_distrib = (random(2.2, 5.5. 0.1));
+$w_mobile = random(4,7,0.1);
+$Ra=(3*$w_distrib+2*$w_mobile)/2;
+
+##############################################################
+#
+#  PGML Area
+#
+#
+BEGIN_PGML
+
+The Oscar-Mayer Weinermobile which weighs [$w_mobile] tons crosses a bridge of questionable integrity.  The bridge has a distributed weight, represented by [$w_distrib]-kip forces at each of points C, E, and G.
+
+Determine the reaction at point A.
+
+[@ image( "MyQ.JPG", width=>506, height=>292) @]*
+
+Enter your answer Ra = [______]{$Ra} kips.
+
+END_PGML
+
+##############################################################
+Context()->functions->disable("All");
+Context()->operators->undefine('+','-','**','^','/',' /','/ ','//','U','u+','fn','.','><','!',',','_',' ','*',' *','* ');
+Context()->parens->remove('|','(','[','{');
+Context()->constants->remove('i');
+
+ENDDOCUMENT();
