@@ -56,4 +56,5 @@ Go to your pull request (Pull requests tab, 'Closed' option) and find the 'Delet
 COMMENTS AND QUESTIONS ABOUT THIS WORKSHOP SO FAR:
 (Put your comments and questions here)
 I never would have been able to navigate all of these procedures without this workshop!
-Great detail and hands on learning.
+
+Is there a collective guide to the syntax used for WeBWorK problems?
