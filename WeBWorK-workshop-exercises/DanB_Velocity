@@ -1,0 +1,65 @@
+##DESCRIPTION
+##  Velocity of Car
+##ENDDESCRIPTION
+
+##KEYWORDS('dynamics','particle kinematics', 'velocity')
+
+## DBsubject('Dynamics')
+## DBchapter('Particle Kinematics')
+## DBsection('1D Kinematics')
+## Date('2018/06/24')
+## Author('Dan Baker, dan.baker@colostate.edu')
+## Institution('Colorado State University')
+########################################################################
+
+DOCUMENT();      
+
+loadMacros(
+   "PGstandard.pl",     # Standard macros for PG language
+   "MathObjects.pl",
+   "PGML.pl",
+);
+
+# Print problem number and point value (weight) for the problem
+TEXT(beginproblem());
+
+# Show which answers are correct and which ones are incorrect
+$showPartialCorrectAnswers = 1;
+
+$refreshCachedImages = 1;
+
+##############################################################
+#
+#  Setup
+#
+#
+
+Context("Complex");
+Context()->flags->set(tolerance => .1);
+
+$dist = Real(random(60,200,20));
+$time = Real(random(30,90,15));
+$vel = Real((60*$dist) / $time);
+
+##############################################################
+#
+#  PGML Area
+#
+#
+BEGIN_PGML
+
+A car travels [$dist] miles in [$time] minutes. What is the car's average velocity in miles per hour?
+
+[@ image( "speedometer_PNG50.png", width=>200, height=>200) @]*
+
+Average velocity is = [______]{$vel} miles/hour.
+
+END_PGML
+
+##############################################################
+Context()->functions->disable("All");
+Context()->operators->undefine('+','-','**','^','/',' /','/ ','//','U','u+','fn','.','><','!',',','_',' ','*',' *','* ');
+Context()->parens->remove('|','(','[','{');
+Context()->constants->remove('i');
+
+ENDDOCUMENT();
